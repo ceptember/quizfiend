@@ -127,6 +127,7 @@ background-color: #ffffffcc;
 #footer p {
   margin: 0px; 
   font-size: 10pt; 
+  
 }
 
 #search {
@@ -150,6 +151,7 @@ background-color: #ffffffcc;
   width: 75%;
   margin: auto;
   text-align: center; 
+  
 }
 
 
@@ -225,7 +227,7 @@ background-color: #ffffffcc;
 
 
 #comments-section {
-  clear: both; 
+  clear: both
 }
 /*
 ***** SUGGESTION PAGE **** 
