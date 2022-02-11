@@ -7,7 +7,7 @@ import Search from './Search.js';
 import Footer from './Footer.js'
 import { Route, Switch } from "react-router-dom";
 
-
+ 
 function App() {
 
   const [quizzes, setQuizzes] = useState([]);
